@@ -1,6 +1,4 @@
-Certainly! Here's a README file for the provided code:
-
-# README
+# Windows Run Ripoff 🪟
 
 This is a Python script using the Tkinter library to create a simple graphical user interface (GUI) application. The application allows the user to enter a program path and run it using the `os.system()` function. The program also includes some custom widgets from a module called `customtkinter`.
 
